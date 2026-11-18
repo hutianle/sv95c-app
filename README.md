@@ -81,7 +81,7 @@ sv95c-app/
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/mit-think-dmd/sv95c-app.git
+git clone https://github.com/hutianle/sv95c-app.git
 cd sv95c-app
 ```
 
@@ -131,7 +131,7 @@ Expected verification results:
 1. Push your repository to GitHub.
 2. Sign in to [Streamlit Community Cloud](https://share.streamlit.io/).
 3. Click **"New app"** and select your repository:
-   * **Repository:** `mit-think-dmd/sv95c-app` (or your fork)
+   * **Repository:** `hutianle/sv95c-app`
    * **Branch:** `main`
    * **Main file path:** `app.py`
    * **Python version:** `3.12`

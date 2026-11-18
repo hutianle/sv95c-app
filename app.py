@@ -562,7 +562,7 @@ def main():
         "Core gait analysis algorithms provided by [gaitmap](https://github.com/mad-lab-fau/gaitmap) (MIT License) "
         "and [gaitmap_mad](https://github.com/mad-lab-fau/gaitmap_mad) (AGPL-3.0 License).  \n"
         "In compliance with AGPL-3.0, source code for this application is accessible at: "
-        "[https://github.com/mit-think-dmd/sv95c-app](https://github.com/mit-think-dmd/sv95c-app)"
+        "[https://github.com/hutianle/sv95c-app](https://github.com/hutianle/sv95c-app)"
     )
 
 
