@@ -1,0 +1,12 @@
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.streamlit/
+*.csv
+!imu_sample.csv
+*.json
+!comparison_results.json
+.DS_Store
